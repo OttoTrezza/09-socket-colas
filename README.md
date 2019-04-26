@@ -8,4 +8,4 @@ Recuerden que deben de reconstruir los módulos de node con el comando
 npm install
 ```
 APLICACION YA DESPLEGADA EN HEROKU..
-https://socket-chat-cursonode.herokuapp.com/
+https://colascursnode.herokuapp.com/
